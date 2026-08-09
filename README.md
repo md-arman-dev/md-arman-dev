@@ -2,75 +2,87 @@
 
 ### 💻 Full Stack Web Developer
 
-I'm a passionate Web Developer who loves building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
+I'm a passionate Full Stack Web Developer who loves building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and turning ideas into functional digital experiences.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I'm a Full Stack Web Developer
-- 🌱 Currently learning and improving my development skills
+- 💻 Full Stack Web Developer
+- 🌱 Currently improving my web development skills
 - 🔭 Working on personal and web development projects
-- 🎯 Goal: Build scalable and high-quality web applications
-- ⚡ Fun fact: I enjoy turning ideas into websites
+- 🎯 Goal: Build scalable, secure, and high-quality web applications
+- ⚡ Fun fact: I love turning ideas into websites and applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
+### 🎨 Frontend
 
-### Backend
-- Node.js
-- Express.js
-- PHP
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind" />
+</p>
 
-### Database
-- MongoDB
-- MySQL
+### ⚙️ Backend
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- WordPress
-- Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Md Arman's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Md Arman](https://linkedin.com/in/mdarman12345)
-- 📧 Email: mdarman.developer@gmail.com
+<p>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://linkedin.com/in/mdarman12345">Md Arman</a>
+</p>
+
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:mdarman.developer@gmail.com">mdarman.developer@gmail.com</a>
+</p>
+
 ---
 
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Website
-A modern and responsive e-commerce website with product management, shopping cart, and user-friendly UI.
+
+A modern and responsive e-commerce website featuring product management, shopping cart functionality, and a user-friendly interface.
 
 ### 💼 Portfolio Website
-A personal portfolio website showcasing my skills, projects, and professional experience.
+
+A personal portfolio website showcasing my skills, projects, experience, and professional journey.
 
 ### 📱 Web Application
-A responsive web application built with modern technologies and best development practices.
+
+A responsive web application built using modern web technologies and following clean development practices.
 
 ---
 
@@ -82,3 +94,4 @@ A responsive web application built with modern technologies and best development
 🚀 Building Projects
 📚 Learning New Technologies
 🧩 Problem Solving
+🌐 Full Stack Development
