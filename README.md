@@ -59,9 +59,6 @@ I'm a passionate Web Developer who loves building modern, responsive, and user-f
 
 - 💼 LinkedIn: [Md Arman](https://linkedin.com/in/mdarman12345)
 - 📧 Email: mdarman.developer@gmail.com
-```
-- 🌐 Portfolio: [My Portfolio](https://your-portfolio.com)
-```
 ---
 
 ## 📌 Featured Projects
