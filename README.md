@@ -32,6 +32,8 @@ I'm a passionate Full Stack Web Developer who loves building modern, responsive,
 
 ### 🗄️ Database
 
+
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
