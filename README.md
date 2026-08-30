@@ -74,7 +74,7 @@ I'm a passionate Full Stack Web Developer who loves building modern, responsive,
 <p>
   📧 <strong>Email:</strong>
   <a href="mailto:mdarman.developer@gmail.com">
-    mdarman.developer@gmail.com
+    mdarman.developer@gmail.com  
   </a>
 </p>
 
