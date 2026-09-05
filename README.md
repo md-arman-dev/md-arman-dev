@@ -79,4 +79,3 @@ A responsive web application built using modern web technologies and following c
 📚 Learning New Technologies
 🧩 Problem Solving
 🌐 Full Stack Development
-          এটা আরো একটু সুন্দর করে রেডি করে দাও তো ।
