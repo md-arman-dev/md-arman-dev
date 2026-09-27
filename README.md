@@ -8,38 +8,29 @@ I'm a passionate **Full Stack Web Developer** who loves building modern, respons
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer
-- 🌱 Currently improving my web development skills
-- 🔭 Working on personal and web development projects
-- 🎯 Goal: Build scalable, secure, and high-quality web applications
-- ⚡ Fun fact: I love turning ideas into websites and applications
+- 💻 **Role:** Full Stack Web Developer
+- 🌱 **Learning:** Improving advanced web development skills & architectures
+- 🔭 **Working On:** Scalable web application projects
+- 🎯 **Goal:** Build secure, high-performance, and high-quality software
+- ⚡ **Fun Fact:** I love turning complex ideas into clean, functional websites
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="Frontend Tech" />
 </p>
 
-### ⚙️ Backend
-
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend and Database" />
 </p>
 
-### 🗄️ Database
-
+### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
 </p>
 
 ---
@@ -47,35 +38,11 @@ I'm a passionate **Full Stack Web Developer** who loves building modern, respons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-arman-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Md Arman's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" 
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://linkedin.com/in/mdarman12345">
-    Md Arman
-  </a>
-</p>
-
-<p>
-  📧 <strong>Email:</strong>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdarman.developer@gmail.com" target="_blank">
-    mdarman.developer@gmail.com
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arman-dev&theme=tokyonight&hide_border=true" alt="Md Arman's GitHub Streak" />
 </p>
 
 ---
@@ -83,41 +50,33 @@ I'm a passionate **Full Stack Web Developer** who loves building modern, respons
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Website
-
-A modern and responsive e-commerce website featuring product management, shopping cart functionality, and a user-friendly interface.
-
-**Tech Stack:**  
-`PHP` `Laravel` `MySQL` `Bootstrap` `JavaScript`
+A modern and responsive e-commerce platform featuring product management, shopping cart functionality, and an intuitive user interface.
+- **Tech Stack:** `PHP` `Laravel` `MySQL` `Bootstrap` `JavaScript`
 
 ---
 
 ### 💼 Portfolio Website
-
-A personal portfolio website showcasing my skills, projects, experience, and professional journey.
-
-**Tech Stack:**  
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
+My personal portfolio showcasing my skills, projects, experience, and development journey.
+- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap`
 
 ---
 
 ### 📱 Web Application
-
-A responsive web application built using modern web technologies and following clean development practices.
-
-**Tech Stack:**  
-`PHP` `MySQL` `jQuery` `Bootstrap`
+A responsive web application built with clean architecture and modern development standards.
+- **Tech Stack:** `PHP` `MySQL` `jQuery` `Bootstrap`
 
 ---
 
-## 💡 What I Love
+## 🌐 Connect With Me
 
-<div align="center">
-
-| 💻 Coding | 🎨 Web Design | 🚀 Building Projects |
-|:---:|:---:|:---:|
-| 📚 Learning New Technologies | 🧩 Problem Solving | 🌐 Full Stack Development |
-
-</div>
+<p>
+  <a href="https://linkedin.com/in/mdarman12345" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdarman.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
